@@ -1,0 +1,222 @@
+12860;HUMA;10;65Z;Human Sexuality;Herminio Hernando
+12721;HIST;17A;61Z;History of the United States to Early National Era;David Howard-Pitney
+12838;ACCT;1B;65Z;Financial Accounting II;Jeffrey West
+11395;CIS;99;61Z;Office Software Applications;Arthur Linn Jr
+12810;SOSC;83Z;61Z;Community Based Learning in Social Sciences - Sociological;Cynthia Kaufman
+13008;HLTH;21;68Z;Contemporary Health Concerns;Alison Campbell
+12054;ARTS;2F;61Z;History of Art: Multicultural Arts in the United States;Catie Cadge-Moore
+00957;SOC;1;61Z;Introduction to Sociology;TAPOLIA, MARISTELLA
+12924;F/TV;6A;61Z;Screenwriting Fundamentals for Film/Video I;Jennifer Van Sijll
+12013;NUTR;62G;61Z;Dieting (Sifting Fact from Fiction);Anna Miller
+00549;HLTH;21;61Z;Contemporary Health Concerns;Barbara Liechty
+12511;POLI;1;65Z;American Government and Politics;Nicky Yuen
+12466;ARTS;1A;61Z;Introduction to the Visual Arts;Elizabeth Mjelde
+12839;ACCT;1C;65Z;Managerial Accounting;Chris Kwak
+00736;NUTR;10;65Z;Contemporary Nutrition;Barbara Liechty
+10275;EWRT;1A;68Z;Composition and Reading;Brian Malone
+12936;ES;3;65Z;Imagery of the Environment;Lynn Thorensen
+00679;MATH;10;61Z;Introductory Statistics;Usha Ganeshalingam
+12888;REST;50;61Z;Real Estate Principles;Mia Park
+10226;HUMI;7;61Z;The Arts and the Human Spirit;Lori Clinchard
+11744;MET;10;65Z;Weather and Climate Processes;Bridget James
+12880;CIS;18C;61Z;Bash Scripting;Clare Nguyen
+13059;ANTH;1;01Z;Physical Anthropology;KADKLY, AMANDA
+10274;EWRT;1A;67Z;Composition and Reading;Alex Giardino
+12687;ESCI;1;69Z;Environmental Science;Jana Sanders
+00036;ANTH;2;61Z;Cultural Anthropology;Angel Roque
+12682;ES;4;61Z;Energy, the Environment, and Society;William Roeder
+12995;ACCT;1A;67Z;Financial Accounting I;Letha Jeanpierre
+12047;ARTS;2F;66Z;History of Art: Multicultural Arts in the United States;Nancy Olsen
+12507;POLI;1;69Z;American Government and Politics;Robert Ovetz
+12210;PSYC;1;65Z;General Psychology;Mark Healy
+11186;GEO;10;65Z;World Regional Geography;Eileen Pena
+12232;NUTR;10;61Z;Contemporary Nutrition;Anna Miller
+12956;CIS;75A;61Z;Internet Concepts and TCP/IP Protocols;Behrouz Forouzan
+12053;ICS;5;61Z;History of Art: Multicultural Arts in the United States;Catie Cadge-Moore
+12439;BUS;56;61Z;Human Relations in the Workplace;Kimberlee Andrews-Bingham
+12985;CIS;22A;66Z;Beginning Programming Methodologies in C++;Tuan Nguyen
+00915;PSYC;4;61Z;Abnormal Psychology;Daniel Bunce
+10279;EWRT;2;65Z;Critical Reading, Writing and Thinking;Amy Leonard
+12535;CIS;40;61Z;Introduction to Programming in Python;LAU, YAU
+11300;CIS;108;61Z;Personal Computer Security Basics;Mark Sherby
+12715;BUS;54;61Z;Business Mathematics;Guillermo Hernandez
+10277;EWRT;1B;61Z;Reading, Writing and Research;Anthony Delaney
+12663;ARTS;53;61Z;Introduction to Visual Technology;Marco Marquez
+12520;PHIL;4;65Z;Critical Thinking;Javier Galindo
+00105;BUS;90;61Z;Principles of Marketing;Wenlei Shan
+12283;GEO;1;65Z;Physical Geography;Kerry Rohrmeier
+12551;HLTH;21;65Z;Contemporary Health Concerns;Barbara Liechty
+12220;HIST;17B;61Z;History of the United States from 1800 to 1900;Carlos Mujal
+12268;ICS;10;61Z;An Introduction to African American Studies;Julie Lewis
+00467;EWRT;1A;61Z;Composition and Reading;Kim Palmore
+12986;CIS;3;66Z;Business Information Systems;Hoang Nguyen
+12822;ICS;30;61Z;Introduction to Chicano/a and Latino/a Studies;LOYOLA, ANGELINA
+12872;KNES;52;61Z;Physical Stress Management;Danielle Altman
+12456;KNES;45;65Z;Introduction to Kinesiology;Arden Kragalott
+00100;BUS;18;61Z;Business Law I;Dan Salah
+12861;CLP;7;61Z;Self-Assessment;Natasha Joplin
+11241;CIS;64B;65Z;Introduction to SQL;Sukhjit Singh
+12517;PHIL;1;65Z;Introduction to Philosophy;Rich Booher
+11598;GEOL;20;61Z;General Oceanography;Chris Dileonardo
+12445;KNES;52;65Z;Physical Stress Management;Danielle Altman
+12998;KNES;9AX;61Z;Interactive Cardiovascular Fitness and Activity Tracking 1;Cheryl Owiesny
+13013;ICS;32;61Z;Chicano/a and Latino/a History;Felipe Ponce
+11954;ES;1;66Z;Introduction to Environmental Studies;William Roeder
+11526;BUS;18;65Z;Business Law I;Dan Salah
+12891;REST;61;61Z;Real Estate Investments;SHIH, YIN-LUNG
+10511;BIOL;10;61Z;Introductory Biology;Eric Pane
+12967;PHIL;4;66Z;Critical Thinking;Richard Hammerud
+12805;MET;10L;61Z;Meteorology Laboratory;Terrence Mullens
+00234;CIS;35A;61Z;Java Programming;Sukhjit Singh
+12737;CD;10G;61Z;Child Development (The Early Years);Cristina Leal
+12717;ECON;2;66Z;Principles of Microeconomics;Stephen Zill
+12713;CIS;66;61Z;Introduction to Data Communication and Networking;Behrouz Forouzan
+11741;ICS;5;65Z;History of Art: Multicultural Arts in the United States;Catie Cadge-Moore
+11522;ANTH;1;61Z;Physical Anthropology;Julie Hui
+12487;HUMA;20;61Z;Life Skills for Higher Education;Melinda Hughes
+10324;ES;1;61Z;Introduction to Environmental Studies;William Roeder
+12521;PHIL;8;65Z;Ethics;Nick Baiamonte
+11246;POLI;1;66Z;American Government and Politics;Nicky Yuen
+12552;HLTH;21;66Z;Contemporary Health Concerns;Barbara Liechty
+13012;INTL;11;61Z;Vietnamese Literature (from Tradition to Asian American Identity);Francesca Caparas
+10173;HUMI;1;61Z;Creative Minds;Barbara Hoffman
+12516;PHIL;1;61Z;Introduction to Philosophy;Rich Booher
+11194;EWRT;1B;66Z;Reading, Writing and Research;Luis Limcolioc
+12807;ACCT;88;61Z;Excel Spreadsheets for Accounting;HATTER, AMBER
+12419;POLI;1;67Z;American Government and Politics;Ishmael Tarikh
+12494;ECON;2;67Z;Principles of Microeconomics;Monika Thomas
+12940;ES;1;69Z;Introduction to Environmental Studies;Adrienne Frisbee
+13009;PARA;95;61Z;Overview of American Law;Daniel Blanchette
+12859;BUS;10;66Z;Introduction to Business;Gary Niedermier
+12207;ANTH;1;65Z;Physical Anthropology;Ameeta Tiwana
+12937;ESCI;1;70Z;Environmental Science;Mary Poffenroth
+01155;REST;51;61Z;Real Estate Practices;Mark Sherby
+00613;JOUR;2;61Z;Media and Its Impact On Society;Farideh Dada
+12100;KNES;54;61Z;Introduction to Sport in Society;Dawnis Guevara
+12582;DMT;60A;61Z;SolidWorks (Beginning);Paul Klingman
+12484;PHTG;21;61Z;Contemporary Trends in Photography;Tressa Pack
+11952;ES;1;65Z;Introduction to Environmental Studies;Alicia De Toro
+10214;PSYC;1;61Z;General Psychology;Mark Healy
+12960;EWRT;1A;72Z;Composition and Reading;Anna Lewis
+11527;BUS;60;61Z;International Business Management;Lale Yurtseven
+12586;ICS;41;61Z;Native American Contemporary Society;Meghan Kensler
+12941;ES;1;70Z;Introduction to Environmental Studies;Adrienne Frisbee
+12592;JOUR;77W;65Z;Special Projects in Journalism;Cecilia Deck
+11981;EWRT;2;72Z;Critical Reading, Writing and Thinking;Ryan Dickson
+10305;ACCT;1C;61Z;Managerial Accounting;Lih Hung
+12208;ANTH;2;65Z;Cultural Anthropology;Leslie Berry
+00923;PSYC;14;61Z;Developmental Aspects of Psychology;Melissa Tamas
+12020;CIS;3;65Z;Business Information Systems;Anita Whitehill
+00050;ARTS;2G;61Z;History of Art: Arts of Asia;So Kam Lee
+12984;CIS;22A;65Z;Beginning Programming Methodologies in C++;YEH, SHU
+10265;HUMA;10;61Z;Human Sexuality;Kevin Glapion
+11742;ARTS;2F;65Z;History of Art: Multicultural Arts in the United States;Catie Cadge-Moore
+12988;CIS;41A;61Z;Python Programming;Grant Larkin
+12874;KNES;47;61Z;Introduction to Women in Sports;Dawnis Guevara
+13060;CIS;89A;01Z;Web Page Development;Valerie Taylor
+11680;EWRT;1A;65Z;Composition and Reading;Kim Palmore
+12938;ESCI;1;71Z;Environmental Science;Jana Sanders
+12496;ECON;1;66Z;Principles of Macroeconomics;Don Uy-Barreta
+12544;ESCI;1;66Z;Environmental Science;Valerie Greene
+00227;CIS;3;61Z;Business Information Systems;Hoang Nguyen
+12543;ESCI;1;65Z;Environmental Science;Alicia De Toro
+12186;HUMI;15;61Z;Discussion on the Arts;Barbara Hoffman
+12057;JOUR;2;65Z;Media and Its Impact On Society;Farideh Dada
+00490;EWRT;2;61Z;Critical Reading, Writing and Thinking;Amy Leonard
+12542;ESCI;1;61Z;Environmental Science;Valerie Greene
+00956;SOC;1;65Z;Introduction to Sociology;TAPOLIA, MARISTELLA
+12589;EWRT;30;61Z;Introduction to Creative Writing;Ken Weisner
+13061;HTEC;60A;01Z;Basic Medical Terminology;Maureen Miramontes
+10809;EWRT;2;66Z;Critical Reading, Writing and Thinking;Lydia Hearn
+12957;COMM;1;63Z;Public Speaking;Shagundeep Kaur
+11238;HUMI;16;61Z;Arts, Ideas and Values;Leslie Berry
+10195;ECON;1;61Z;Principles of Macroeconomics;Ravjeet Singh
+12862;CLP;7;65Z;Self-Assessment;Pauline Wethington
+13025;MATH;1B;61Z;Calculus;Bijan Sadeghi-Hassanvand
+12689;BUS;21;61Z;Business and Society;Byron Lilly
+12455;ACCT;1A;65Z;Financial Accounting I;Lydia Botsford
+12579;COMM;16;63Z;Interpersonal Communication;Brandon Gainer
+13047;ASTR;10;61Z;Stellar Astronomy;Eric Peterson
+12889;REST;53;61Z;Real Estate Finance;HATTER, AMBER
+12989;CIS;36A;61Z;Introduction to Computer Programming Using Java;Tuan Nguyen
+12738;PSYC;10G;61Z;Child Development (The Early Years);Cristina Leal
+10807;EWRT;1A;66Z;Composition and Reading;Alex Giardino
+13010;ADMJ;95;61Z;Overview of American Law;Daniel Blanchette
+11882;BUS;85;61Z;Business Communication;Oduro Takyi
+12958;COMM;1;64Z;Public Speaking;Shagundeep Kaur
+12624;POLI;1;68Z;American Government and Politics;Ishmael Tarikh
+10610;BUS;10;61Z;Introduction to Business;Byron Lilly
+12533;CIS;18B;61Z;Advanced Unix/Linux;Clare Nguyen
+12414;MET;10;66Z;Weather and Climate Processes;Bridget James
+12684;ESCI;1;68Z;Environmental Science;Mary Poffenroth
+12531;SOSC;80X;61Z;Community Based Learning in Social Sciences - Historical;Cynthia Kaufman
+12540;ES;2;61Z;Introduction to Sustainability;Alicia De Toro
+12390;CIS;56;61Z;Network Security;Len Fisk
+12840;MATH;10;65Z;Introductory Statistics;Loraine Moen
+11379;ES;3;61Z;Imagery of the Environment;Lynn Thorensen
+11743;GEO;10;66Z;World Regional Geography;Eileen Pena
+12850;BUS;87;61Z;Introduction to Selling;Oduro Takyi
+11299;CIS;22A;61Z;Beginning Programming Methodologies in C++;Mary Pape
+10512;BIOL;10;65Z;Introductory Biology;Eric Pane
+10773;CIS;14A;61Z;Visual Basic .NET Programming I;Arthur Linn Jr
+10246;CIS;2;61Z;Computers and the Internet in Society;Valerie Taylor
+12966;PHIL;1;67Z;Introduction to Philosophy;Trung Le
+00605;INTL;10;61Z;History of Art: Arts of Asia;So Kam Lee
+12837;ACCT;1A;66Z;Financial Accounting I;Lauri Hammond
+12219;HIST;17C;61Z;History of the United States from 1900 to the Present;Carlos Mujal
+13022;MATH;1A;63Z;Calculus;Lisa Markus
+13024;MATH;1A;64Z;Calculus;Nahrin Rashid
+12422;EWRT;1A;69Z;Composition and Reading;Brian Malone
+12615;BUS;10;65Z;Introduction to Business;Emily Garbe
+13007;HLTH;21;67Z;Contemporary Health Concerns;Alison Campbell
+10304;ACCT;1B;61Z;Financial Accounting II;Chris Kwak
+12873;KNES;45;61Z;Introduction to Kinesiology;Cheryl Owiesny
+10956;MET;10;61Z;Weather and Climate Processes;Terrence Mullens
+11547;BUS;89;61Z;Advertising;Dionne Morgan
+11528;CIS;102;61Z;Ethical Hacking;Felix Amoruwa
+12425;EWRT;1A;70Z;Composition and Reading;Randie Wann
+13058;NUTR;10;70Z;Contemporary Nutrition;Georgia Acker
+01104;HUMI;9;61Z;Introduction to Comparative Religion;Lori Clinchard
+13057;NUTR;10;69Z;Contemporary Nutrition;Georgia Acker
+12971;GEOL;20;65Z;General Oceanography;Chris Dileonardo
+11837;PHTG;7;61Z;Exploring Visual Expression;William Mattick
+12510;POLI;1;61Z;American Government and Politics;James Nguyen
+12942;ES;70;61Z;Introduction to Energy;Massimo Maniaci
+12623;BUS;18;66Z;Business Law I;Michael Gough
+12900;PHIL;1;66Z;Introduction to Philosophy;Nick Baiamonte
+12046;ICS;5;66Z;History of Art: Multicultural Arts in the United States;Nancy Olsen
+11309;CIS;22B;61Z;Intermediate Programming Methodologies in C++;Hellen Pacheco
+12532;MATH;1A;61Z;Calculus;Lisa Markus
+13023;MATH;1A;62Z;Calculus;Nahrin Rashid
+12426;EWRT;2;71Z;Critical Reading, Writing and Thinking;Ryan Dickson
+13051;BUS;10;67Z;Introduction to Business;Brian Bennett
+12290;ICS;29;61Z;Cultural Pluralism and American Law and Justice;Meghan Kensler
+12519;PHIL;4;61Z;Critical Thinking;Anthony Hanson
+10196;ECON;1;65Z;Principles of Macroeconomics;Triyakshana Seshadri
+00721;MUSI;1A;61Z;Music Appreciation: Music in Western Cultures;Loren Tayerle
+12690;ES;58;61Z;Introduction to Green Building;Ronald Wheelehan
+12987;CIS;22C;61Z;Data Abstraction and Structures;Grant Larkin
+12808;ACCT;87AI;61Z;Computerized Accounting Programs I (Quickbooks);Lauri Hammond
+11447;EWRT;1B;67Z;Reading, Writing and Research;Luis Limcolioc
+13011;POLI;95;61Z;Overview of American Law;Daniel Blanchette
+12683;ESCI;1;67Z;Environmental Science;Valerie Greene
+11175;NUTR;10;66Z;Contemporary Nutrition;Alison Campbell
+12939;ES;1;68Z;Introduction to Environmental Studies;Jana Sanders
+11739;ECON;2;65Z;Principles of Microeconomics;Monika Thomas
+11529;CIS;4;61Z;Computer Literacy;Patricia Holmes
+10150;ICS;4;61Z;Race, Ethnicity and Inequality;Joel Franks
+12774;HIST;3C;61Z;World History from 1750 CE to the Present;Christopher Jackson
+10550;EWRT;2;67Z;Critical Reading, Writing and Thinking;Lydia Hearn
+12681;ES;1;67Z;Introduction to Environmental Studies;Mary Poffenroth
+12833;EWRT;2;73Z;Critical Reading, Writing and Thinking;Rebecca Board Liljenstolpe
+11685;EWRT;2;68Z;Critical Reading, Writing and Thinking;Charles Gray
+00400;ECON;2;61Z;Principles of Microeconomics;Stephen Blohm
+10301;ACCT;1A;61Z;Financial Accounting I;Lydia Botsford
+12842;EWRT;1A;71Z;Composition and Reading;Randie Wann
+12961;EWRT;1A;73Z;Composition and Reading;Anna Lewis
+12421;EWRT;2;70Z;Critical Reading, Writing and Thinking;Charles Gray
+12962;EWRT;2;74Z;Critical Reading, Writing and Thinking;Rebecca Board Liljenstolpe
+12453;ACCT;74;61Z;Accounting Ethics;Alexis James
+11095;EWRT;1B;65Z;Reading, Writing and Research;Anthony Delaney
+12291;ADMJ;29;61Z;Cultural Pluralism and American Law and Justice;Meghan Kensler
+11301;CIS;98;61Z;Digital Image Editing Software (Photoshop);Patricia Holmes
